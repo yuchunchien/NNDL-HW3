@@ -11,4 +11,5 @@ Implement various kinds of augmentations of training data.
 * Flipping horizontally
 * Adding noise
 
-## Problem 3
+## Problem 4
+Implement convolutional architectures to restore heavily corrupted images
